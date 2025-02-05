@@ -9,7 +9,7 @@ p {
 button{
     background-color: yellow;
     color: black;
-    border-color: yellow;
+    border: none;
     border-radius: 15px;
     cursor: pointer;
 }
